@@ -15,4 +15,4 @@ Each expression may be one of the following types:
 
 ## Examples
 	{% ?: article.is_published "Published" "Draft" %}
-	She has {% ?: number_of_apples "no" %} apples.
+	She's got {% ?: number_of_apples "no" %} apples.
