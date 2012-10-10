@@ -1,5 +1,5 @@
 '''
-The ?: ternary operator. conditional operator, inline if (iif) or ternary if for Django
+The ?: ternary operator, conditional operator, inline if (iif) or ternary if for Django
 
 Copyright (c) Alexandru Marasteanu <hello [at) alexei (dot] ro>
 All rights reserved.
