@@ -5,6 +5,7 @@ The ?: ternary operator, conditional operator, inline if (iif) or ternary if for
 
 ## How to use
 	{% ?: exp1 exp2 exp3 %}
+
 	{% ?: exp1 exp2 %}
 
 Which are equivalent to:
@@ -14,6 +15,7 @@ Which are equivalent to:
 	{% else %}
 		{{ exp3 }}
 	{% endif %}
+
 	{% if exp1 %}
 		{{ exp1 }}
 	{% else %}
